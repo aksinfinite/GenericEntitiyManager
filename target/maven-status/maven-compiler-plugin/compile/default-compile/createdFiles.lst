@@ -1,0 +1,4 @@
+com\taaza\generic\entity\manager\entities\EmployeePersonalDetails.class
+com\taaza\generic\entity\manager\entities\EmployeeOfficialDetails.class
+com\taaza\generic\entity\manager\entities\EmployeeDetails.class
+com\taaza\generic\entity\manager\Application.class
